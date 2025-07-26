@@ -1,6 +1,6 @@
-> ⚠️ **This repository is no longer maintained.**  
-> The project has moved to 👉 [**https://github.com/Venqul/VenSur**](https://github.com/Venqul/VenSur)  
-> Please star and follow development there. This page is kept as an archive only.
+> 🚀 **This project has moved!**  
+> Development now continues at 👉 [**github.com/Venqul/VenSur**](https://github.com/Venqul/VenSur)  
+> You're viewing an older version — please visit the new repo for the latest updates.
 
 
 ## Whitesur Firefox theme ( Venqul's Fork )
